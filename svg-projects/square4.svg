@@ -1,0 +1,59 @@
+<svg
+    version="1.1"
+    width="400" height="400"
+    xmlns="http://www.w3.org/2000/svg"
+>
+
+<rect
+    x="100" y="100"
+    rx="10" ry="10"
+    width="50" height="50"
+    stroke="olive" 
+    stroke-opacity="0.8"
+    fill="green"
+    opacity="0.6"
+/>
+
+<rect 
+    x="20" y="20"
+    width="50" height="50" 
+    fill="slategrey"
+    opacity="0.5"
+    stroke="black" stroke-width="10"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+/>
+
+<rect 
+    x="200" y="200"
+    width="50" height="50" 
+    fill="blueviolet"
+    fill-opacity="0.5"
+    stroke="black" 
+    stroke-width="20"
+    stroke-linecap="butt"
+    stroke-linejoin="bevel"
+/>
+
+<rect
+    x="100" y="20"
+    width="50" height="50"
+    fill="powderblue"
+    stroke="blueviolet"
+    stroke-opacity="0.5"
+    stroke-width="10"
+    stroke-dasharray="5 5 10"
+/>
+
+<circle
+    cx="50" cy="170"
+    r="40"
+    fill="transparent"
+    stroke="cornflowerblue"
+    stroke-width="10"
+    stroke-dasharray="5 5 10"
+/>
+
+
+
+</svg>
