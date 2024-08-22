@@ -1,5 +1,3 @@
 # README
 
-The page is located at https://liewchooichin.github.io.
-
-This is done as an assignment for the course.
+This bio page is created as part of an assignment for the course on HTML/CSS.
