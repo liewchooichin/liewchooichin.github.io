@@ -1,0 +1,46 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    width: 70%;
+    max-width: 400px;
+    margin:auto;
+}
+#container-main {
+    padding: 30px;
+    border-radius: 10px;
+    border-color: darkgrey;
+    border-width: 3px;
+    border-style: groove;
+}
+.list-style-none {
+    list-style: none;
+    margin: auto;
+    padding: 0;
+}
+#banner-bio {
+    text-align: center;
+    background-color: aliceblue;
+    border: 1px solid darkgrey;
+    box-shadow: inset 1px 1px 1px darkgrey,
+        3px 3px 3px darkgrey;
+}
+img {
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+figcaption {
+    font-size: 0.8em;
+}
+#hobby-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+#hobby-section li {
+    padding: 10px;
+    border: 3px solid darkgrey;
+}
+footer {
+    font-size: 0.8em;
+}
